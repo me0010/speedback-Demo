@@ -1,0 +1,27 @@
+Secotor Data
++StartLatitude
++StartLonitude
++SectorId
+
+SpeedSignData
++SpeedSignId
++SpeedLimit
++Latitude
++Longitude
++SectorId
+
+WeatherData
++City
++MaxTemp
++MinTemp
++Rainfall
++Wind
+
+FeedBack
++WeatherDataKey
++DayDate
++Latitude
++Longitude
++RoadName
++TownName
++TooFast
